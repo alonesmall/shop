@@ -1,0 +1,50 @@
+
+
+.margin{width: 12rem;margin: 0 auto}
+
+header{height: 0.8rem;border: 0.01rem solid #e1e1e1;}
+header .logo{height: 0.8rem;}
+header .logo a.shouye{display: block;width: 1.45rem;height: 0.34rem;background: url(../images/reg-logo.png) no-repeat left;margin-top: 0.23rem;float: left;}
+header .logo .go-login{float: right;overflow: hidden;}
+header .logo .go-login span{font: 0.1rem/0.5rem "";color:#999999;display: block;float: left;}
+header .logo .go-login a{display: block; font: 0.1rem/0.5rem "";color: #0066cc;float: left;margin-left: 0.14rem;}
+header .logo .go-login em{display: block;float: left;font: 0.1rem/0.5rem "";color: #333333;margin-left: 0.53rem;margin-right: 0.05rem;cursor: pointer;}
+header .logo .go-login i{display: block;float: left;font: 0.1rem/0.5rem "";color: #333333;}
+
+
+main{overflow: hidden;background: #fcfcfc;}
+#main{width: 9.8rem;height: 4rem;margin: 0 auto;padding-top: 0.25rem;}
+#main .main-l{width: 5.1rem;height: 4.06rem;float: left;background: url(../images/shengqian.png) no-repeat left;margin-left: 0.6rem;}
+
+#main .main-r{width: 4.01rem;height: 4.06rem;float: left;background: #fff;padding: 0 0.36rem;box-sizing: border-box;position: relative;}
+#main .main-r .error_tips{height: 0.3rem;display: block;position: absolute;top: 0.1rem;width: 3.2rem;font: 0.12rem/0.3rem "";color: #999;border: 0.01rem solid #e5debc;padding-left: 0.3rem;box-sizing: border-box;background:#fff7d1 url(../images/jinggao.png) no-repeat left;background-position-x: 0.1rem;background-position-y: 0.07rem;display: none;}
+
+#main .main-r .xinxi{height: 0.3rem;margin-top: 0.46rem;}
+
+#main .main-r .xinxi span{font:700 0.14rem/0.3rem "";color: #666;display: block;float: left;}
+#main .main-r .xinxi a{font: 0.12rem/0.3rem "";color: #0066cc;display: block;float: right;}
+#main .main-r .denglu{overflow: hidden;}
+#main .main-r .denglu input{width: 3.24rem;height: 0.52rem;border: 0.01rem solid #dedede;outline: none;border-radius: 0.05rem;font: 0.12rem/0.52rem "";padding-left: 0.55rem;box-sizing: border-box;margin-top: 0.1rem;}
+#main .main-r .denglu #user{background: url(../images/user.png) no-repeat left;background-position: 0.27rem;}
+#main .main-r .denglu #pass{background: url(../images/suo.png) no-repeat left;background-position: 0.27rem;}
+
+#main .main-r .auto-login{height: 0.44rem;}
+#main .main-r .auto-login i{display: block;float: left;width:0.12rem;height: 0.12rem;border: 0.01rem solid #aaaaaa;margin-top: 0.15rem;}
+#main .main-r .auto-login a{display: block;float: left;font: 0.14rem/0.44rem "";color: #999999;margin-left: 0.05rem;cursor: pointer;}
+#main .main-r .auto-login span{display: block;float: right;font: 0.14rem/0.44rem "";color: #999999;margin-right: 0.05rem;}
+#main .main-r .login-btn{width: 3.3rem;height: 0.52rem;background: #ff3c3c;border-radius: 0.05rem;text-align: center;color:#fff;font: 0.16rem/0.52rem "";cursor: pointer;}
+#main .main-r .more{font: 0.12rem/0.46rem "";color: #666;}
+#main .main-r ul{overflow: hidden;}
+#main .main-r ul li{float: left;}
+#main .main-r ul li a {display: block;width: 0.33rem;height: 0.33rem;margin-right: 0.2rem;}
+#main .main-r ul li a.t1{background: url(../images/qq.png) no-repeat center;}
+#main .main-r ul li a.t2{background: url(../images/jd.png) no-repeat center;}
+#main .main-r ul li a.t3{background: url(../images/weixin.png) no-repeat center;}
+#main .main-r ul li a.t4{background: url(../images/weibo.png) no-repeat center;}
+
+
+footer{background:#fcfcfc;}
+.foot{width: 9.8rem;margin: 0 auto;height: 1.4rem;font: 0.12rem/0.26rem "";color: #333;text-align: center;padding-top: 0.2rem;box-sizing: border-box;}
+.foot a:hover{color: #ff3c3c;}
+
+

@@ -1,0 +1,40 @@
+.margin{width: 12rem;margin: 0 auto}
+
+header{height: 0.8rem;border: 0.01rem solid #e1e1e1;}
+header .logo{height: 0.8rem;}
+header .logo a.shouye{display: block;width: 1.45rem;height: 0.34rem;background: url(../images/reg-logo.png) no-repeat left;margin-top: 0.23rem;float: left;}
+header .logo .go-login{float: right;overflow: hidden;}
+header .logo .go-login span{font: 0.1rem/0.5rem "";color:#999999;display: block;float: left;}
+header .logo .go-login a{display: block; font: 0.1rem/0.5rem "";color: #0066cc;float: left;margin-left: 0.14rem;}
+header .logo .go-login em{display: block;float: left;font: 0.1rem/0.5rem "";color: #333333;margin-left: 0.53rem;margin-right: 0.05rem;cursor: pointer;}
+header .logo .go-login i{display: block;float: left;font: 0.1rem/0.5rem "";color: #333333;}
+
+main{background: #fcfcfc;height: 5.1rem;}
+#main{width:3.3rem;height:4.63rem;background: #fcfcfc;min-height: 4rem;}
+#main h3{font:700 0.24rem/0.7rem "";color: #333333;text-align: center;padding-top: 0.2rem;}
+
+#main ul{min-height: 3rem;}
+#main ul li{position: relative;height: 0.52rem;margin-top: 0.1rem;}
+#main ul li .input{float: left;}
+#main ul li .input .input-msg{font: 0.14rem/0.52rem "";color: #666;position: absolute;left:0.2rem;left:0.2rem;}
+#main ul li .input input{width: 3.28rem;height: 0.5rem;border: 0.01rem solid #dedede;border-radius: 0.05rem;outline: none;font: 0.14rem/0.52rem "";color: #666;padding-left: 0.2rem;box-sizing: border-box;}
+
+#main ul li .tishi{position: absolute;right: -2rem;;width: 1.8rem;height: 0.6rem;background: #fff4d7;top:-0.05rem;display: none;}
+#main ul li .tishi p{padding: 0 0.1rem;font: 0.12rem/0.2rem "";color:#898780;}
+#main .xieyi{font: 0.12rem/0.5rem "";color:666;text-align: center;}
+#main .xieyi a.agreement{color: #0066cc;}
+
+
+#main .lastbtn{height: 0.52rem;background: #ff3c3c;font: 0.16rem/0.52rem "";color: #fff;text-align: center;border-radius: 0.05rem;cursor: pointer;}
+
+footer{height: 0.62rem;}
+footer .foot{height: 0.62rem;text-align: center;font: 0.12rem/0.2rem "";padding-top: 0.1rem;box-sizing: border-box; }
+footer .foot a:hover{color: #ff3c3c;}
+
+
+
+
+
+
+
+
